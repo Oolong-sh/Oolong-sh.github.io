@@ -11,9 +11,8 @@
 }
 
 @font-face {
-    font-family: "Ioesevka Patrick";
-    src: url("assets/fonts/patricks-iosevka-regular.ttf") format("truetype");
-    font-style: normal;
+    font-family: "Iosevka Patrick";
+    src: url("/assets/fonts/patricks-iosevka-regular.ttf");
 }
 
 body {
