@@ -43,21 +43,21 @@ header {
 }
 
 
-.logo h1 {
+.titlebar h1 {
     font-size: 2.5em;
     color: #333;
 }
 
-.hero {
+main {
     padding: 100px 20px;
 }
 
-.hero h2 {
+main h2 {
     font-size: 2em;
     margin-bottom: 20px;
 }
 
-.hero p {
+main p {
     font-size: 1.2em;
     margin-bottom: 30px;
 }
